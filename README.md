@@ -58,6 +58,7 @@ Dashboard Direzionale
 Dashboard Operativa
         ↓
 Supporto Decisionale
+```
 ---
 
 ## Struttura del Data Warehouse
