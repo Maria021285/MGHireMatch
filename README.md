@@ -226,6 +226,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 ![Dashboard Direzionale](Docs/Dhboard Operativa
 
 Docs/Dashboard_Operativa.png
+
 ``
 
 ### Dashboard Operativa
