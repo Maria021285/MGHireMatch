@@ -1,0 +1,63 @@
+
+# 1. KPI PRINCIPALI
+
+# 1.1 numero totale richieste
+SELECT COUNT(*) AS numero_richieste
+FROM fact_richieste;
+
+# 1.2 incasso totale
+SELECT SUM(importo_totale) AS incasso_totale
+FROM fact_richieste;
+
+# 1.3 tempo medio di chiusura
+SELECT AVG(tempo_chiusura_giorni) AS tempo_medio
+FROM fact_richieste;
+
+
+# 2. CLIENTI RICORRENTI
+
+SELECT COUNT(*) AS clienti_ricorrenti
+FROM (
+    SELECT cliente_id
+    FROM fact_richieste
+    GROUP BY cliente_id
+    HAVING COUNT(*) > 1
+);
+
+
+# 3. KPI PROLUNGAMENTO
+
+#3.1 numero richieste prolungate
+SELECT COUNT(*) AS richieste_prolungate
+FROM fact_richieste
+WHERE prolungata = 1;
+
+#3.2 percentuale richieste prolungate
+SELECT 
+    100.0 * SUM(CASE WHEN prolungata = 1 THEN 1 ELSE 0 END) / COUNT(*) 
+    AS percentuale_prolungate
+FROM fact_richieste;
+
+
+# 4. ANALISI PER ZONA CLIENTE
+
+SELECT c.zona, SUM(r.importo_totale) AS incasso_totale
+FROM fact_richieste r
+JOIN dim_cliente c ON r.cliente_id = c.cliente_id
+GROUP BY c.zona;
+
+
+# 5.ANALISI PER FORNITORE
+
+SELECT f.categoria_servizio, COUNT(*) AS numero_richieste
+FROM fact_richieste r
+JOIN dim_fornitore f ON r.fornitore_id = f.fornitore_id
+GROUP BY f.categoria_servizio;
+
+
+# 6. ANALISI PER OPERATORE
+
+SELECT o.team, COUNT(*) AS numero_richieste
+FROM fact_richieste r
+JOIN dim_operatore o ON r.operatore_id = o.operatore_id
+GROUP BY o.team;
