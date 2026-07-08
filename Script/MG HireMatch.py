@@ -3,7 +3,7 @@ import sqlite3
 
 # 1. Caricamento File CSV creati con funzione Random in Excel 
 
-Operatori = pd.read_csv("Dim_Operatori_.csv")
+Operatori = pd.read_csv("Dim_Operatori.csv")
 Clienti = pd.read_csv("Dim_Clienti.csv")
 Fornitori = pd.read_csv("Dim_Fornitori.csv")
 Richieste = pd.read_csv("Fact_Richieste.csv")
