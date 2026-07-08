@@ -226,9 +226,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ### Dashboard Operativa
 
-https://github.com/Maria021285/MGHireMatch/blob/main/Docs/Dashboard_Direzionale.png
-
-docs/dashboard_operativa.png
+<img width="734" height="808" alt="Image" src="https://github.com/user-attachments/assets/a5e9df1e-0446-4ec3-bea6-7840231966c4" />
 
 ---
 
