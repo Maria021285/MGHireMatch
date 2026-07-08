@@ -226,7 +226,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ### Dashboard Operativa
 
-<img width="734" height="808" alt="Image" src="https://github.com/user-attachments/assets/a5e9df1e-0446-4ec3-bea6-7840231966c4" />
+<img width="729" height="795" alt="Image" src="https://github.com/user-attachments/assets/b981644d-4073-45fa-9c47-18039c5d47d8" />
 
 ---
 
