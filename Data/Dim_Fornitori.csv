@@ -1,0 +1,601 @@
+﻿fornitore_id,nome,categoria_servizio,zona
+1,Talent Partners,Risk Management,Sud
+2,HR Consulting Group,Risk Management,Nord
+3,Executive Search Italia,Finance,Sud
+4,Recruiting Solutions,IT,Sud
+5,Career Advisory,IT,Sud
+6,Alpha Talent Network,Compliance,Nord
+7,People First Consulting,Risk Management,Nord
+8,Global Recruitment Services,Sales,Nord
+9,Strategic Search Partners,Compliance,Centro
+10,NextGen Talent Advisors,Finance,Nord
+11,Talent Partners,IT,Centro
+12,HR Consulting Group,IT,Sud
+13,Executive Search Italia,Compliance,Nord
+14,Recruiting Solutions,Finance,Sud
+15,Career Advisory,Finance,Centro
+16,Alpha Talent Network,Risk Management,Centro
+17,People First Consulting,Sales,Sud
+18,Global Recruitment Services,IT,Sud
+19,Strategic Search Partners,Compliance,Sud
+20,NextGen Talent Advisors,Finance,Nord
+21,Talent Partners,Finance,Nord
+22,HR Consulting Group,IT,Nord
+23,Executive Search Italia,Compliance,Nord
+24,Recruiting Solutions,Sales,Centro
+25,Career Advisory,Risk Management,Centro
+26,Alpha Talent Network,Risk Management,Centro
+27,People First Consulting,IT,Centro
+28,Global Recruitment Services,Compliance,Centro
+29,Strategic Search Partners,Compliance,Sud
+30,NextGen Talent Advisors,Compliance,Sud
+31,Talent Partners,Risk Management,Nord
+32,HR Consulting Group,Compliance,Centro
+33,Executive Search Italia,Risk Management,Nord
+34,Recruiting Solutions,IT,Centro
+35,Career Advisory,IT,Centro
+36,Alpha Talent Network,Sales,Nord
+37,People First Consulting,Finance,Sud
+38,Global Recruitment Services,Risk Management,Nord
+39,Strategic Search Partners,Compliance,Nord
+40,NextGen Talent Advisors,Compliance,Centro
+41,Talent Partners,IT,Nord
+42,HR Consulting Group,Sales,Nord
+43,Executive Search Italia,IT,Centro
+44,Recruiting Solutions,Finance,Sud
+45,Career Advisory,Compliance,Sud
+46,Alpha Talent Network,Risk Management,Sud
+47,People First Consulting,Sales,Nord
+48,Global Recruitment Services,Risk Management,Nord
+49,Strategic Search Partners,Compliance,Nord
+50,NextGen Talent Advisors,IT,Nord
+51,Talent Partners,IT,Centro
+52,HR Consulting Group,Finance,Nord
+53,Executive Search Italia,Finance,Sud
+54,Recruiting Solutions,Compliance,Nord
+55,Career Advisory,Sales,Nord
+56,Alpha Talent Network,Risk Management,Sud
+57,People First Consulting,Finance,Sud
+58,Global Recruitment Services,Risk Management,Sud
+59,Strategic Search Partners,Compliance,Nord
+60,NextGen Talent Advisors,Sales,Centro
+61,Talent Partners,Compliance,Sud
+62,HR Consulting Group,Finance,Sud
+63,Executive Search Italia,Compliance,Centro
+64,Recruiting Solutions,Finance,Nord
+65,Career Advisory,Compliance,Centro
+66,Alpha Talent Network,Risk Management,Sud
+67,People First Consulting,IT,Sud
+68,Global Recruitment Services,Compliance,Nord
+69,Strategic Search Partners,Risk Management,Nord
+70,NextGen Talent Advisors,Sales,Centro
+71,Talent Partners,Risk Management,Sud
+72,HR Consulting Group,Compliance,Centro
+73,Executive Search Italia,Sales,Nord
+74,Recruiting Solutions,Finance,Centro
+75,Career Advisory,Sales,Centro
+76,Alpha Talent Network,Compliance,Sud
+77,People First Consulting,Risk Management,Sud
+78,Global Recruitment Services,Sales,Sud
+79,Strategic Search Partners,Sales,Sud
+80,NextGen Talent Advisors,Finance,Nord
+81,Talent Partners,Finance,Centro
+82,HR Consulting Group,IT,Sud
+83,Executive Search Italia,Risk Management,Centro
+84,Recruiting Solutions,Sales,Centro
+85,Career Advisory,Risk Management,Nord
+86,Alpha Talent Network,Sales,Centro
+87,People First Consulting,IT,Centro
+88,Global Recruitment Services,Risk Management,Nord
+89,Strategic Search Partners,Finance,Nord
+90,NextGen Talent Advisors,Risk Management,Sud
+91,Talent Partners,Finance,Centro
+92,HR Consulting Group,Finance,Sud
+93,Executive Search Italia,IT,Sud
+94,Recruiting Solutions,Compliance,Centro
+95,Career Advisory,Sales,Sud
+96,Alpha Talent Network,Risk Management,Nord
+97,People First Consulting,Risk Management,Sud
+98,Global Recruitment Services,Compliance,Nord
+99,Strategic Search Partners,Finance,Sud
+100,NextGen Talent Advisors,Compliance,Nord
+101,Talent Partners,IT,Nord
+102,HR Consulting Group,IT,Centro
+103,Executive Search Italia,Sales,Nord
+104,Recruiting Solutions,Finance,Sud
+105,Career Advisory,Risk Management,Nord
+106,Alpha Talent Network,Compliance,Nord
+107,People First Consulting,Finance,Nord
+108,Global Recruitment Services,IT,Centro
+109,Strategic Search Partners,Compliance,Sud
+110,NextGen Talent Advisors,Sales,Nord
+111,Talent Partners,Sales,Centro
+112,HR Consulting Group,IT,Centro
+113,Executive Search Italia,Finance,Centro
+114,Recruiting Solutions,IT,Sud
+115,Career Advisory,Compliance,Centro
+116,Alpha Talent Network,Risk Management,Sud
+117,People First Consulting,Sales,Nord
+118,Global Recruitment Services,Finance,Centro
+119,Strategic Search Partners,Sales,Sud
+120,NextGen Talent Advisors,Finance,Centro
+121,Talent Partners,Sales,Sud
+122,HR Consulting Group,IT,Nord
+123,Executive Search Italia,Risk Management,Sud
+124,Recruiting Solutions,Sales,Centro
+125,Career Advisory,Sales,Sud
+126,Alpha Talent Network,Finance,Nord
+127,People First Consulting,Risk Management,Centro
+128,Global Recruitment Services,Finance,Sud
+129,Strategic Search Partners,IT,Sud
+130,NextGen Talent Advisors,Compliance,Nord
+131,Talent Partners,Sales,Centro
+132,HR Consulting Group,Compliance,Centro
+133,Executive Search Italia,Finance,Nord
+134,Recruiting Solutions,Risk Management,Sud
+135,Career Advisory,Risk Management,Nord
+136,Alpha Talent Network,IT,Centro
+137,People First Consulting,Compliance,Centro
+138,Global Recruitment Services,Sales,Centro
+139,Strategic Search Partners,Sales,Sud
+140,NextGen Talent Advisors,IT,Nord
+141,Talent Partners,Compliance,Centro
+142,HR Consulting Group,Risk Management,Nord
+143,Executive Search Italia,Finance,Sud
+144,Recruiting Solutions,Risk Management,Sud
+145,Career Advisory,Finance,Centro
+146,Alpha Talent Network,Risk Management,Nord
+147,People First Consulting,Compliance,Centro
+148,Global Recruitment Services,Finance,Nord
+149,Strategic Search Partners,IT,Centro
+150,NextGen Talent Advisors,Risk Management,Nord
+151,Talent Partners,IT,Sud
+152,HR Consulting Group,Compliance,Nord
+153,Executive Search Italia,Compliance,Nord
+154,Recruiting Solutions,Compliance,Sud
+155,Career Advisory,Compliance,Nord
+156,Alpha Talent Network,Compliance,Nord
+157,People First Consulting,IT,Centro
+158,Global Recruitment Services,Sales,Nord
+159,Strategic Search Partners,Sales,Sud
+160,NextGen Talent Advisors,Compliance,Centro
+161,Talent Partners,IT,Sud
+162,HR Consulting Group,Compliance,Sud
+163,Executive Search Italia,Compliance,Sud
+164,Recruiting Solutions,Sales,Nord
+165,Career Advisory,IT,Nord
+166,Alpha Talent Network,Risk Management,Nord
+167,People First Consulting,Risk Management,Nord
+168,Global Recruitment Services,Finance,Nord
+169,Strategic Search Partners,Sales,Centro
+170,NextGen Talent Advisors,Finance,Sud
+171,Talent Partners,Risk Management,Centro
+172,HR Consulting Group,Risk Management,Centro
+173,Executive Search Italia,Finance,Sud
+174,Recruiting Solutions,Compliance,Centro
+175,Career Advisory,Compliance,Nord
+176,Alpha Talent Network,Finance,Centro
+177,People First Consulting,IT,Centro
+178,Global Recruitment Services,Sales,Nord
+179,Strategic Search Partners,Sales,Sud
+180,NextGen Talent Advisors,IT,Nord
+181,Talent Partners,Sales,Nord
+182,HR Consulting Group,Finance,Sud
+183,Executive Search Italia,Finance,Nord
+184,Recruiting Solutions,Risk Management,Centro
+185,Career Advisory,Sales,Sud
+186,Alpha Talent Network,Compliance,Sud
+187,People First Consulting,Sales,Centro
+188,Global Recruitment Services,Risk Management,Sud
+189,Strategic Search Partners,Compliance,Sud
+190,NextGen Talent Advisors,Sales,Nord
+191,Talent Partners,IT,Centro
+192,HR Consulting Group,Finance,Sud
+193,Executive Search Italia,Sales,Sud
+194,Recruiting Solutions,Compliance,Nord
+195,Career Advisory,IT,Nord
+196,Alpha Talent Network,Compliance,Sud
+197,People First Consulting,Finance,Centro
+198,Global Recruitment Services,Compliance,Nord
+199,Strategic Search Partners,Compliance,Centro
+200,NextGen Talent Advisors,Finance,Sud
+201,Talent Partners,Risk Management,Sud
+202,HR Consulting Group,Finance,Sud
+203,Executive Search Italia,Sales,Centro
+204,Recruiting Solutions,IT,Centro
+205,Career Advisory,Risk Management,Centro
+206,Alpha Talent Network,Risk Management,Centro
+207,People First Consulting,Finance,Nord
+208,Global Recruitment Services,IT,Nord
+209,Strategic Search Partners,Sales,Centro
+210,NextGen Talent Advisors,Risk Management,Sud
+211,Talent Partners,Finance,Centro
+212,HR Consulting Group,Finance,Sud
+213,Executive Search Italia,Finance,Centro
+214,Recruiting Solutions,Compliance,Sud
+215,Career Advisory,IT,Centro
+216,Alpha Talent Network,Compliance,Nord
+217,People First Consulting,Sales,Sud
+218,Global Recruitment Services,Compliance,Sud
+219,Strategic Search Partners,Finance,Centro
+220,NextGen Talent Advisors,Sales,Centro
+221,Talent Partners,Sales,Centro
+222,HR Consulting Group,Risk Management,Nord
+223,Executive Search Italia,Finance,Sud
+224,Recruiting Solutions,IT,Nord
+225,Career Advisory,Sales,Nord
+226,Alpha Talent Network,Sales,Centro
+227,People First Consulting,Finance,Nord
+228,Global Recruitment Services,Sales,Centro
+229,Strategic Search Partners,IT,Nord
+230,NextGen Talent Advisors,Compliance,Sud
+231,Talent Partners,Finance,Nord
+232,HR Consulting Group,IT,Centro
+233,Executive Search Italia,Finance,Sud
+234,Recruiting Solutions,Compliance,Centro
+235,Career Advisory,IT,Sud
+236,Alpha Talent Network,Finance,Sud
+237,People First Consulting,Finance,Centro
+238,Global Recruitment Services,Sales,Nord
+239,Strategic Search Partners,Sales,Sud
+240,NextGen Talent Advisors,IT,Centro
+241,Talent Partners,IT,Centro
+242,HR Consulting Group,Compliance,Centro
+243,Executive Search Italia,IT,Nord
+244,Recruiting Solutions,Compliance,Centro
+245,Career Advisory,IT,Sud
+246,Alpha Talent Network,Sales,Centro
+247,People First Consulting,Sales,Centro
+248,Global Recruitment Services,Sales,Sud
+249,Strategic Search Partners,IT,Sud
+250,NextGen Talent Advisors,Finance,Centro
+251,Talent Partners,Finance,Nord
+252,HR Consulting Group,Finance,Sud
+253,Executive Search Italia,Risk Management,Nord
+254,Recruiting Solutions,Risk Management,Sud
+255,Career Advisory,IT,Sud
+256,Alpha Talent Network,Finance,Centro
+257,People First Consulting,Risk Management,Centro
+258,Global Recruitment Services,Risk Management,Nord
+259,Strategic Search Partners,Compliance,Nord
+260,NextGen Talent Advisors,Risk Management,Nord
+261,Talent Partners,Compliance,Centro
+262,HR Consulting Group,IT,Sud
+263,Executive Search Italia,Sales,Sud
+264,Recruiting Solutions,Risk Management,Centro
+265,Career Advisory,Compliance,Sud
+266,Alpha Talent Network,IT,Sud
+267,People First Consulting,Compliance,Sud
+268,Global Recruitment Services,Sales,Sud
+269,Strategic Search Partners,Risk Management,Sud
+270,NextGen Talent Advisors,Finance,Nord
+271,Talent Partners,Risk Management,Nord
+272,HR Consulting Group,IT,Centro
+273,Executive Search Italia,IT,Centro
+274,Recruiting Solutions,Risk Management,Sud
+275,Career Advisory,Finance,Centro
+276,Alpha Talent Network,IT,Sud
+277,People First Consulting,Risk Management,Sud
+278,Global Recruitment Services,Sales,Nord
+279,Strategic Search Partners,Risk Management,Nord
+280,NextGen Talent Advisors,Compliance,Centro
+281,Talent Partners,Compliance,Sud
+282,HR Consulting Group,Risk Management,Sud
+283,Executive Search Italia,IT,Nord
+284,Recruiting Solutions,Risk Management,Centro
+285,Career Advisory,Finance,Sud
+286,Alpha Talent Network,Risk Management,Sud
+287,People First Consulting,IT,Centro
+288,Global Recruitment Services,Risk Management,Centro
+289,Strategic Search Partners,IT,Centro
+290,NextGen Talent Advisors,Risk Management,Sud
+291,Talent Partners,Sales,Centro
+292,HR Consulting Group,Finance,Centro
+293,Executive Search Italia,IT,Centro
+294,Recruiting Solutions,Risk Management,Nord
+295,Career Advisory,IT,Nord
+296,Alpha Talent Network,Sales,Sud
+297,People First Consulting,Compliance,Centro
+298,Global Recruitment Services,Risk Management,Nord
+299,Strategic Search Partners,IT,Nord
+300,NextGen Talent Advisors,Finance,Centro
+301,Talent Partners,IT,Nord
+302,HR Consulting Group,Risk Management,Nord
+303,Executive Search Italia,Finance,Centro
+304,Recruiting Solutions,IT,Centro
+305,Career Advisory,Finance,Nord
+306,Alpha Talent Network,Risk Management,Centro
+307,People First Consulting,IT,Sud
+308,Global Recruitment Services,Risk Management,Sud
+309,Strategic Search Partners,Sales,Sud
+310,NextGen Talent Advisors,Compliance,Sud
+311,Talent Partners,Finance,Sud
+312,HR Consulting Group,Risk Management,Centro
+313,Executive Search Italia,Risk Management,Centro
+314,Recruiting Solutions,IT,Nord
+315,Career Advisory,IT,Centro
+316,Alpha Talent Network,IT,Centro
+317,People First Consulting,IT,Sud
+318,Global Recruitment Services,Risk Management,Nord
+319,Strategic Search Partners,Risk Management,Centro
+320,NextGen Talent Advisors,Sales,Nord
+321,Talent Partners,IT,Sud
+322,HR Consulting Group,Finance,Centro
+323,Executive Search Italia,Sales,Nord
+324,Recruiting Solutions,Risk Management,Sud
+325,Career Advisory,Compliance,Nord
+326,Alpha Talent Network,IT,Nord
+327,People First Consulting,Risk Management,Sud
+328,Global Recruitment Services,IT,Nord
+329,Strategic Search Partners,Risk Management,Sud
+330,NextGen Talent Advisors,Finance,Centro
+331,Talent Partners,IT,Centro
+332,HR Consulting Group,Risk Management,Sud
+333,Executive Search Italia,Risk Management,Centro
+334,Recruiting Solutions,Compliance,Nord
+335,Career Advisory,Risk Management,Sud
+336,Alpha Talent Network,IT,Centro
+337,People First Consulting,Risk Management,Centro
+338,Global Recruitment Services,Compliance,Sud
+339,Strategic Search Partners,IT,Nord
+340,NextGen Talent Advisors,Finance,Nord
+341,Talent Partners,Finance,Sud
+342,HR Consulting Group,IT,Centro
+343,Executive Search Italia,Finance,Sud
+344,Recruiting Solutions,IT,Sud
+345,Career Advisory,Compliance,Centro
+346,Alpha Talent Network,Risk Management,Nord
+347,People First Consulting,Finance,Centro
+348,Global Recruitment Services,Risk Management,Nord
+349,Strategic Search Partners,Sales,Centro
+350,NextGen Talent Advisors,IT,Nord
+351,Talent Partners,Finance,Centro
+352,HR Consulting Group,Risk Management,Centro
+353,Executive Search Italia,IT,Nord
+354,Recruiting Solutions,Compliance,Sud
+355,Career Advisory,Risk Management,Nord
+356,Alpha Talent Network,Compliance,Sud
+357,People First Consulting,Finance,Nord
+358,Global Recruitment Services,IT,Nord
+359,Strategic Search Partners,IT,Sud
+360,NextGen Talent Advisors,Risk Management,Centro
+361,Talent Partners,Compliance,Nord
+362,HR Consulting Group,Finance,Sud
+363,Executive Search Italia,Compliance,Centro
+364,Recruiting Solutions,Compliance,Sud
+365,Career Advisory,Finance,Sud
+366,Alpha Talent Network,Risk Management,Sud
+367,People First Consulting,Compliance,Nord
+368,Global Recruitment Services,Sales,Sud
+369,Strategic Search Partners,Risk Management,Centro
+370,NextGen Talent Advisors,IT,Centro
+371,Talent Partners,Sales,Centro
+372,HR Consulting Group,Finance,Sud
+373,Executive Search Italia,Finance,Centro
+374,Recruiting Solutions,IT,Nord
+375,Career Advisory,IT,Centro
+376,Alpha Talent Network,Sales,Nord
+377,People First Consulting,Risk Management,Sud
+378,Global Recruitment Services,Compliance,Centro
+379,Strategic Search Partners,Risk Management,Nord
+380,NextGen Talent Advisors,Sales,Nord
+381,Talent Partners,Risk Management,Centro
+382,HR Consulting Group,Risk Management,Nord
+383,Executive Search Italia,Compliance,Nord
+384,Recruiting Solutions,Compliance,Nord
+385,Career Advisory,Sales,Nord
+386,Alpha Talent Network,IT,Sud
+387,People First Consulting,Sales,Nord
+388,Global Recruitment Services,Finance,Centro
+389,Strategic Search Partners,Compliance,Sud
+390,NextGen Talent Advisors,Risk Management,Sud
+391,Talent Partners,IT,Centro
+392,HR Consulting Group,Finance,Nord
+393,Executive Search Italia,Compliance,Centro
+394,Recruiting Solutions,IT,Sud
+395,Career Advisory,Finance,Centro
+396,Alpha Talent Network,Finance,Nord
+397,People First Consulting,Compliance,Centro
+398,Global Recruitment Services,IT,Centro
+399,Strategic Search Partners,Finance,Nord
+400,NextGen Talent Advisors,Finance,Nord
+401,Talent Partners,IT,Sud
+402,HR Consulting Group,Sales,Nord
+403,Executive Search Italia,Compliance,Sud
+404,Recruiting Solutions,Sales,Centro
+405,Career Advisory,Finance,Nord
+406,Alpha Talent Network,IT,Centro
+407,People First Consulting,Sales,Nord
+408,Global Recruitment Services,IT,Centro
+409,Strategic Search Partners,Compliance,Sud
+410,NextGen Talent Advisors,Finance,Nord
+411,Talent Partners,Sales,Centro
+412,HR Consulting Group,Risk Management,Sud
+413,Executive Search Italia,Risk Management,Sud
+414,Recruiting Solutions,Compliance,Nord
+415,Career Advisory,Sales,Sud
+416,Alpha Talent Network,Finance,Sud
+417,People First Consulting,Compliance,Nord
+418,Global Recruitment Services,Risk Management,Centro
+419,Strategic Search Partners,Compliance,Nord
+420,NextGen Talent Advisors,Compliance,Sud
+421,Talent Partners,Finance,Centro
+422,HR Consulting Group,Risk Management,Sud
+423,Executive Search Italia,Compliance,Centro
+424,Recruiting Solutions,Compliance,Centro
+425,Career Advisory,Sales,Centro
+426,Alpha Talent Network,Finance,Sud
+427,People First Consulting,Sales,Centro
+428,Global Recruitment Services,IT,Sud
+429,Strategic Search Partners,IT,Nord
+430,NextGen Talent Advisors,Risk Management,Nord
+431,Talent Partners,Finance,Centro
+432,HR Consulting Group,Risk Management,Sud
+433,Executive Search Italia,Finance,Centro
+434,Recruiting Solutions,Finance,Sud
+435,Career Advisory,Risk Management,Nord
+436,Alpha Talent Network,Risk Management,Sud
+437,People First Consulting,Sales,Nord
+438,Global Recruitment Services,Compliance,Sud
+439,Strategic Search Partners,IT,Centro
+440,NextGen Talent Advisors,Risk Management,Sud
+441,Talent Partners,Risk Management,Sud
+442,HR Consulting Group,Finance,Nord
+443,Executive Search Italia,Compliance,Sud
+444,Recruiting Solutions,Finance,Nord
+445,Career Advisory,Finance,Nord
+446,Alpha Talent Network,Compliance,Centro
+447,People First Consulting,Risk Management,Nord
+448,Global Recruitment Services,Finance,Sud
+449,Strategic Search Partners,Finance,Centro
+450,NextGen Talent Advisors,Finance,Centro
+451,Talent Partners,Compliance,Centro
+452,HR Consulting Group,Sales,Sud
+453,Executive Search Italia,Finance,Centro
+454,Recruiting Solutions,IT,Centro
+455,Career Advisory,Sales,Sud
+456,Alpha Talent Network,IT,Nord
+457,People First Consulting,IT,Nord
+458,Global Recruitment Services,IT,Sud
+459,Strategic Search Partners,Risk Management,Nord
+460,NextGen Talent Advisors,Sales,Nord
+461,Talent Partners,Sales,Nord
+462,HR Consulting Group,Finance,Centro
+463,Executive Search Italia,Risk Management,Sud
+464,Recruiting Solutions,Compliance,Sud
+465,Career Advisory,Finance,Sud
+466,Alpha Talent Network,Compliance,Sud
+467,People First Consulting,Risk Management,Sud
+468,Global Recruitment Services,Sales,Nord
+469,Strategic Search Partners,Compliance,Nord
+470,NextGen Talent Advisors,Compliance,Sud
+471,Talent Partners,Compliance,Sud
+472,HR Consulting Group,Finance,Nord
+473,Executive Search Italia,Sales,Nord
+474,Recruiting Solutions,Compliance,Sud
+475,Career Advisory,Finance,Nord
+476,Alpha Talent Network,Sales,Sud
+477,People First Consulting,Finance,Sud
+478,Global Recruitment Services,IT,Centro
+479,Strategic Search Partners,Sales,Sud
+480,NextGen Talent Advisors,IT,Centro
+481,Talent Partners,IT,Centro
+482,HR Consulting Group,Finance,Centro
+483,Executive Search Italia,Compliance,Centro
+484,Recruiting Solutions,IT,Centro
+485,Career Advisory,Risk Management,Centro
+486,Alpha Talent Network,Compliance,Sud
+487,People First Consulting,Sales,Sud
+488,Global Recruitment Services,Compliance,Centro
+489,Strategic Search Partners,Finance,Nord
+490,NextGen Talent Advisors,Compliance,Sud
+491,Talent Partners,IT,Nord
+492,HR Consulting Group,Finance,Sud
+493,Executive Search Italia,IT,Centro
+494,Recruiting Solutions,Compliance,Centro
+495,Career Advisory,Compliance,Nord
+496,Alpha Talent Network,Sales,Sud
+497,People First Consulting,Finance,Sud
+498,Global Recruitment Services,Finance,Centro
+499,Strategic Search Partners,IT,Centro
+500,NextGen Talent Advisors,IT,Centro
+501,Talent Partners,IT,Nord
+502,HR Consulting Group,Risk Management,Centro
+503,Executive Search Italia,Sales,Nord
+504,Recruiting Solutions,Compliance,Centro
+505,Career Advisory,Risk Management,Sud
+506,Alpha Talent Network,Sales,Sud
+507,People First Consulting,IT,Sud
+508,Global Recruitment Services,Risk Management,Sud
+509,Strategic Search Partners,Compliance,Nord
+510,NextGen Talent Advisors,IT,Nord
+511,Talent Partners,Compliance,Centro
+512,HR Consulting Group,Sales,Sud
+513,Executive Search Italia,Sales,Sud
+514,Recruiting Solutions,Risk Management,Centro
+515,Career Advisory,Compliance,Nord
+516,Alpha Talent Network,IT,Nord
+517,People First Consulting,Compliance,Sud
+518,Global Recruitment Services,IT,Sud
+519,Strategic Search Partners,IT,Nord
+520,NextGen Talent Advisors,Sales,Sud
+521,Talent Partners,Finance,Nord
+522,HR Consulting Group,Finance,Centro
+523,Executive Search Italia,Risk Management,Centro
+524,Recruiting Solutions,Compliance,Sud
+525,Career Advisory,Compliance,Sud
+526,Alpha Talent Network,Risk Management,Nord
+527,People First Consulting,Compliance,Sud
+528,Global Recruitment Services,Sales,Centro
+529,Strategic Search Partners,Compliance,Nord
+530,NextGen Talent Advisors,Sales,Nord
+531,Talent Partners,Finance,Centro
+532,HR Consulting Group,Sales,Sud
+533,Executive Search Italia,Compliance,Nord
+534,Recruiting Solutions,Compliance,Sud
+535,Career Advisory,Compliance,Nord
+536,Alpha Talent Network,Compliance,Sud
+537,People First Consulting,IT,Nord
+538,Global Recruitment Services,Sales,Centro
+539,Strategic Search Partners,Compliance,Sud
+540,NextGen Talent Advisors,Compliance,Sud
+541,Talent Partners,Compliance,Centro
+542,HR Consulting Group,Risk Management,Centro
+543,Executive Search Italia,Sales,Nord
+544,Recruiting Solutions,Finance,Centro
+545,Career Advisory,Sales,Nord
+546,Alpha Talent Network,Finance,Centro
+547,People First Consulting,Compliance,Sud
+548,Global Recruitment Services,Sales,Centro
+549,Strategic Search Partners,IT,Sud
+550,NextGen Talent Advisors,Finance,Nord
+551,Talent Partners,Compliance,Nord
+552,HR Consulting Group,Compliance,Centro
+553,Executive Search Italia,Finance,Sud
+554,Recruiting Solutions,Finance,Sud
+555,Career Advisory,IT,Sud
+556,Alpha Talent Network,IT,Centro
+557,People First Consulting,Finance,Centro
+558,Global Recruitment Services,Finance,Sud
+559,Strategic Search Partners,Compliance,Nord
+560,NextGen Talent Advisors,Compliance,Centro
+561,Talent Partners,Finance,Nord
+562,HR Consulting Group,Finance,Centro
+563,Executive Search Italia,IT,Sud
+564,Recruiting Solutions,Finance,Nord
+565,Career Advisory,Risk Management,Centro
+566,Alpha Talent Network,Risk Management,Sud
+567,People First Consulting,Finance,Nord
+568,Global Recruitment Services,Risk Management,Sud
+569,Strategic Search Partners,Finance,Centro
+570,NextGen Talent Advisors,IT,Nord
+571,Talent Partners,Sales,Centro
+572,HR Consulting Group,Sales,Sud
+573,Executive Search Italia,IT,Nord
+574,Recruiting Solutions,Finance,Nord
+575,Career Advisory,Finance,Sud
+576,Alpha Talent Network,Finance,Nord
+577,People First Consulting,Sales,Centro
+578,Global Recruitment Services,Finance,Sud
+579,Strategic Search Partners,Sales,Centro
+580,NextGen Talent Advisors,Finance,Sud
+581,Talent Partners,IT,Nord
+582,HR Consulting Group,Finance,Centro
+583,Executive Search Italia,IT,Nord
+584,Recruiting Solutions,Sales,Nord
+585,Career Advisory,IT,Nord
+586,Alpha Talent Network,Sales,Centro
+587,People First Consulting,Risk Management,Sud
+588,Global Recruitment Services,Compliance,Sud
+589,Strategic Search Partners,Compliance,Nord
+590,NextGen Talent Advisors,Compliance,Sud
+591,Talent Partners,IT,Nord
+592,HR Consulting Group,IT,Sud
+593,Executive Search Italia,Sales,Sud
+594,Recruiting Solutions,Finance,Centro
+595,Career Advisory,IT,Sud
+596,Alpha Talent Network,Compliance,Sud
+597,People First Consulting,IT,Centro
+598,Global Recruitment Services,Sales,Nord
+599,Strategic Search Partners,Risk Management,Centro
+600,NextGen Talent Advisors,Sales,Centro
