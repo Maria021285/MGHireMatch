@@ -25,6 +25,15 @@ L'obiettivo del progetto è fornire agli utenti strumenti di analisi in grado di
 
 ---
 
+## Fonti dei Dati
+
+
+Le fonti dati utilizzate sono dataset simulati in formato CSV generati tramite Excel mediante le funzioni CASUALE() e CASUALE.TRA(), integrate con formule personalizzate per rappresentare clienti, fornitori, operatori e richieste di recruiting.
+
+I dati simulati sono stati successivamente elaborati attraverso processi ETL sviluppati in Python e caricati nel Data Warehouse realizzato in SQLite.
+
+---
+
 ## Obiettivi
 
 L'obiettivo finale del progetto è trasformare i dati operativi in informazioni significative e facilmente interpretabili, promuovendo un approccio data-driven ai processi di recruiting e gestione delle risorse.
@@ -209,8 +218,14 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ---
 
-## Output Generati
+## Risultati
 
+### Dashboard Direzionale
+
+### Dashboard Operativa
+---
+
+## Output Generati
 
 Il processo ETL produce i seguenti output:
 
