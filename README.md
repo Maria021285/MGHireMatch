@@ -222,7 +222,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ### Dashboard Direzionale
 
-Docs/Dashboard_Direzionale.png
+[Docs/Dashboard_Direzionale.png](https://github.com/Maria021285/MGHireMatch/blob/main/Docs/Dashboard_Direzionale.png)
 
 ### Dashboard Operativa
 
