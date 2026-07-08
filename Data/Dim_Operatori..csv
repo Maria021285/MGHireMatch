@@ -1,0 +1,101 @@
+﻿operatore_id,nome_operatore,ruolo,specializzazione,zona,seniority,capacita_massima,richieste_attive,saturazione,latitudine,longitudine
+1,Marco Russo,Recruiter,IT,Centro,Mid,8,4,0,5,419028,124964
+2,Luca Ferrari,Senior Recruiter,Finance,Sud,Senior,12,7,0,58,381157,133615
+3,Giulia Esposito,HR Consultant,Compliance,Nord,Junior,5,3,0,6,454384,109916
+4,Francesca Bianchi,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,6,0,75,436158,135189
+5,Alessandro Romano,Account Recruiter,Sales,Sud,Senior,12,2,0,17,406401,158051
+6,Sara Colombo,Recruiter,IT,Nord,Junior,5,5,1,454064,118768
+7,Davide Ricci,Senior Recruiter,Finance,Centro,Mid,8,1,0,12,433188,113308
+8,Elena Marino,HR Consultant,Compliance,Sud,Senior,12,4,0,33,373111,135765
+9,Matteo Greco,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,7,1,456495,137768
+10,Valentina Bruno,Account Recruiter,Sales,Centro,Mid,8,3,0,38,42567,126498
+11,Andrea Gallo,Recruiter,IT,Sud,Senior,12,6,0,5,408518,142681
+12,Chiara Conti,Senior Recruiter,Finance,Nord,Junior,5,2,0,4,450703,76869
+13,Federico De Luca,HR Consultant,Compliance,Centro,Mid,8,5,0,62,437696,112558
+14,Martina Mancini,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,1,0,08,392238,91217
+15,Simone Costa,Account Recruiter,Sales,Nord,Junior,5,4,0,8,464983,113548
+16,Laura Lombardi,Recruiter,IT,Centro,Mid,8,7,0,88,424618,142161
+17,Stefano Moretti,Senior Recruiter,Finance,Sud,Senior,12,3,0,25,40922,145329
+18,Silvia Barbieri,HR Consultant,Compliance,Nord,Junior,5,6,1,460667,111211
+19,Gabriele Fontana,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,2,0,25,434628,118781
+20,Anna Rossi,Account Recruiter,Sales,Sud,Senior,12,5,0,42,389098,165877
+21,Marco Ferrari,Recruiter,IT,Nord,Junior,5,1,0,2,454642,919
+22,Luca Esposito,Senior Recruiter,Finance,Centro,Mid,8,4,0,5,431107,123908
+23,Giulia Bianchi,HR Consultant,Compliance,Sud,Senior,12,7,0,58,375079,15083
+24,Francesca Romano,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,3,0,6,444949,113426
+25,Alessandro Colombo,Account Recruiter,Sales,Centro,Mid,8,6,0,75,423498,133995
+26,Sara Ricci,Recruiter,IT,Sud,Senior,12,2,0,17,381938,15554
+27,Davide Marino,Senior Recruiter,Finance,Nord,Junior,5,5,1,444056,89463
+28,Elena Greco,HR Consultant,Compliance,Centro,Mid,8,1,0,12,426589,137044
+29,Matteo Bruno,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,4,0,33,39296,162537
+30,Valentina Gallo,Account Recruiter,Sales,Nord,Junior,5,7,1,455416,102118
+31,Andrea Conti,Recruiter,IT,Centro,Mid,8,3,0,38,419028,124964
+32,Chiara De Luca,Senior Recruiter,Finance,Sud,Senior,12,6,0,5,381157,133615
+33,Federico Mancini,HR Consultant,Compliance,Nord,Junior,5,2,0,4,454384,109916
+34,Martina Costa,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,5,0,62,436158,135189
+35,Simone Lombardi,Account Recruiter,Sales,Sud,Senior,12,1,0,08,406401,158051
+36,Laura Moretti,Recruiter,IT,Nord,Junior,5,4,0,8,454064,118768
+37,Stefano Barbieri,Senior Recruiter,Finance,Centro,Mid,8,7,0,88,433188,113308
+38,Silvia Fontana,HR Consultant,Compliance,Sud,Senior,12,3,0,25,373111,135765
+39,Gabriele Rossi,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,6,1,456495,137768
+40,Anna Russo,Account Recruiter,Sales,Centro,Mid,8,2,0,25,42567,126498
+41,Marco Esposito,Recruiter,IT,Sud,Senior,12,5,0,42,408518,142681
+42,Luca Bianchi,Senior Recruiter,Finance,Nord,Junior,5,1,0,2,450703,76869
+43,Giulia Romano,HR Consultant,Compliance,Centro,Mid,8,4,0,5,437696,112558
+44,Francesca Colombo,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,7,0,58,392238,91217
+45,Alessandro Ricci,Account Recruiter,Sales,Nord,Junior,5,3,0,6,464983,113548
+46,Sara Marino,Recruiter,IT,Centro,Mid,8,6,0,75,424618,142161
+47,Davide Greco,Senior Recruiter,Finance,Sud,Senior,12,2,0,17,40922,145329
+48,Elena Bruno,HR Consultant,Compliance,Nord,Junior,5,5,1,460667,111211
+49,Matteo Gallo,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,1,0,12,434628,118781
+50,Valentina Conti,Account Recruiter,Sales,Sud,Senior,12,4,0,33,389098,165877
+51,Andrea De Luca,Recruiter,IT,Nord,Junior,5,7,1,454642,919
+52,Chiara Mancini,Senior Recruiter,Finance,Centro,Mid,8,3,0,38,431107,123908
+53,Federico Costa,HR Consultant,Compliance,Sud,Senior,12,6,0,5,375079,15083
+54,Martina Lombardi,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,2,0,4,444949,113426
+55,Simone Moretti,Account Recruiter,Sales,Centro,Mid,8,5,0,62,423498,133995
+56,Laura Barbieri,Recruiter,IT,Sud,Senior,12,1,0,08,381938,15554
+57,Stefano Fontana,Senior Recruiter,Finance,Nord,Junior,5,4,0,8,444056,89463
+58,Silvia Rossi,HR Consultant,Compliance,Centro,Mid,8,7,0,88,426589,137044
+59,Gabriele Russo,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,3,0,25,39296,162537
+60,Anna Ferrari,Account Recruiter,Sales,Nord,Junior,5,6,1,455416,102118
+61,Marco Bianchi,Recruiter,IT,Centro,Mid,8,2,0,25,419028,124964
+62,Luca Romano,Senior Recruiter,Finance,Sud,Senior,12,5,0,42,381157,133615
+63,Giulia Colombo,HR Consultant,Compliance,Nord,Junior,5,1,0,2,454384,109916
+64,Francesca Ricci,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,4,0,5,436158,135189
+65,Alessandro Marino,Account Recruiter,Sales,Sud,Senior,12,7,0,58,406401,158051
+66,Sara Greco,Recruiter,IT,Nord,Junior,5,3,0,6,454064,118768
+67,Davide Bruno,Senior Recruiter,Finance,Centro,Mid,8,6,0,75,433188,113308
+68,Elena Gallo,HR Consultant,Compliance,Sud,Senior,12,2,0,17,373111,135765
+69,Matteo Conti,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,5,1,456495,137768
+70,Valentina De Luca,Account Recruiter,Sales,Centro,Mid,8,1,0,12,42567,126498
+71,Andrea Mancini,Recruiter,IT,Sud,Senior,12,4,0,33,408518,142681
+72,Chiara Costa,Senior Recruiter,Finance,Nord,Junior,5,7,1,450703,76869
+73,Federico Lombardi,HR Consultant,Compliance,Centro,Mid,8,3,0,38,437696,112558
+74,Martina Moretti,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,6,0,5,392238,91217
+75,Simone Barbieri,Account Recruiter,Sales,Nord,Junior,5,2,0,4,464983,113548
+76,Laura Fontana,Recruiter,IT,Centro,Mid,8,5,0,62,424618,142161
+77,Stefano Rossi,Senior Recruiter,Finance,Sud,Senior,12,1,0,08,40922,145329
+78,Silvia Russo,HR Consultant,Compliance,Nord,Junior,5,4,0,8,460667,111211
+79,Gabriele Ferrari,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,7,0,88,434628,118781
+80,Anna Esposito,Account Recruiter,Sales,Sud,Senior,12,3,0,25,389098,165877
+81,Marco Romano,Recruiter,IT,Nord,Junior,5,6,1,454642,919
+82,Luca Colombo,Senior Recruiter,Finance,Centro,Mid,8,2,0,25,431107,123908
+83,Giulia Ricci,HR Consultant,Compliance,Sud,Senior,12,5,0,42,375079,15083
+84,Francesca Marino,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,1,0,2,444949,113426
+85,Alessandro Greco,Account Recruiter,Sales,Centro,Mid,8,4,0,5,423498,133995
+86,Sara Bruno,Recruiter,IT,Sud,Senior,12,7,0,58,381938,15554
+87,Davide Gallo,Senior Recruiter,Finance,Nord,Junior,5,3,0,6,444056,89463
+88,Elena Conti,HR Consultant,Compliance,Centro,Mid,8,6,0,75,426589,137044
+89,Matteo De Luca,Talent Acquisition Specialist,Risk Management,Sud,Senior,12,2,0,17,39296,162537
+90,Valentina Mancini,Account Recruiter,Sales,Nord,Junior,5,5,1,455416,102118
+91,Andrea Costa,Recruiter,IT,Centro,Mid,8,1,0,12,419028,124964
+92,Chiara Lombardi,Senior Recruiter,Finance,Sud,Senior,12,4,0,33,381157,133615
+93,Federico Moretti,HR Consultant,Compliance,Nord,Junior,5,7,1,454384,109916
+94,Martina Barbieri,Talent Acquisition Specialist,Risk Management,Centro,Mid,8,3,0,38,436158,135189
+95,Simone Fontana,Account Recruiter,Sales,Sud,Senior,12,6,0,5,406401,158051
+96,Laura Rossi,Recruiter,IT,Nord,Junior,5,2,0,4,454064,118768
+97,Stefano Russo,Senior Recruiter,Finance,Centro,Mid,8,5,0,62,433188,113308
+98,Silvia Ferrari,HR Consultant,Compliance,Sud,Senior,12,1,0,08,373111,135765
+99,Gabriele Esposito,Talent Acquisition Specialist,Risk Management,Nord,Junior,5,4,0,8,456495,137768
+100,Anna Bianchi,Account Recruiter,Sales,Centro,Mid,8,7,0,88,42567,126498
