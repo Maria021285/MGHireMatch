@@ -222,7 +222,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ### Dashboard Direzionale
 
-<img width="734" height="805" alt="Image" src="https://github.com/user-attachments/assets/69b393ed-b21b-45da-944d-396d081bd8dc" />
+<img width="727" height="804" alt="Image" src="https://github.com/user-attachments/assets/1151ad6e-cfb6-4903-b1bb-6cabb249b853" />
 
 ### Dashboard Operativa
 
