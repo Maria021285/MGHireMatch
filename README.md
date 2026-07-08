@@ -222,7 +222,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 ### Dashboard Direzionale
 
-docs/dashboard_direzionale.png
+Docs/dashboard_direzionale.png
 
 ### Dashboard Operativa
 
