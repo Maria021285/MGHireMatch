@@ -16,7 +16,7 @@ Il nome **MG HireMatch** sintetizza la missione del sistema: favorire l'incontro
 
 ## Descrizione del Progetto
 
-**MG HireMatch** rappresenta un sistema di Business Intelligence progettato per l'analisi e il monitoraggio dei processi di recruiting e selezione del personale.
+**MG HireMatch** è un progetto di Business Intelligence sviluppato per analizzare e monitorare le attività di recruiting e selezione del personale.
 
 La soluzione è basata su un'architettura composta da sorgenti dati strutturate, processi ETL sviluppati in Python, un Data Warehouse realizzato in SQLite e dashboard interattive costruite in Power BI.
 
@@ -28,7 +28,7 @@ L'obiettivo del progetto è fornire agli utenti strumenti di analisi in grado di
 ## Fonti dei Dati
 
 
-Le fonti dati utilizzate sono dataset simulati in formato CSV generati tramite Excel mediante le funzioni CASUALE() e CASUALE.TRA(), integrate con formule personalizzate per rappresentare clienti, fornitori, operatori e richieste di recruiting.
+I dati utilizzati nel progetto sono stati creati in formato CSV tramite Excel utilizzando le funzioni CASUALE() e CASUALE.TRA(), insieme ad altre formule di supporto. I dataset simulano clienti, fornitori, operatori e richieste di recruiting.
 
 I dati simulati sono stati successivamente elaborati attraverso processi ETL sviluppati in Python e caricati nel Data Warehouse realizzato in SQLite.
 
@@ -36,7 +36,7 @@ I dati simulati sono stati successivamente elaborati attraverso processi ETL svi
 
 ## Obiettivi
 
-L'obiettivo finale del progetto è trasformare i dati operativi in informazioni significative e facilmente interpretabili, promuovendo un approccio data-driven ai processi di recruiting e gestione delle risorse.
+Il progetto nasce con l'obiettivo di trasformare i dati raccolti durante le attività di recruiting in informazioni utili per il monitoraggio delle performance e per il supporto alle decisioni aziendali.
 
 Per approccio data-driven si intende un modello decisionale basato sull'analisi dei dati e sull'utilizzo di indicatori di performance, finalizzato a supportare decisioni fondate su evidenze oggettive.
 
@@ -73,7 +73,7 @@ Supporto Decisionale
 
 ### Modello a Stella (Star Schema)
 
-È stato adottato uno schema a stella (Star Schema) poiché rappresenta uno dei modelli più utilizzati nei Data Warehouse grazie alla semplicità delle interrogazioni, alle elevate prestazioni nelle analisi multidimensionali e alla facilità di integrazione con strumenti di Business Intelligence come Power BI.
+Per il Data Warehouse è stato scelto uno schema a stella, una struttura molto diffusa nei progetti di Business Intelligence perché consente di organizzare i dati in modo semplice e facilita la costruzione di report e dashboard.
 
 La struttura è composta da una Fact Table centrale (Fact_Richieste) e da tabelle dimensionali dedicate a clienti, fornitori e operatori, consentendo una navigazione intuitiva dei dati e il calcolo efficiente dei KPI.
 
@@ -83,7 +83,7 @@ Il processo ETL è stato sviluppato in Python utilizzando la libreria Pandas per
 
 ### Data Warehouse
 
-SQLite è stato scelto come motore relazionale per la realizzazione del Data Warehouse grazie alla sua leggerezza, semplicità di configurazione, portabilità e facilità di integrazione con Python.
+SQLite è stato utilizzato per realizzare il Data Warehouse perché è semplice da configurare, leggero e facilmente integrabile con Python.
 
 ### Business Intelligence
 
@@ -276,4 +276,4 @@ Il processo ETL produce i seguenti output:
 
 Maria Giano
 
-MG HireMatch rappresenta un progetto applicativo finalizzato all'integrazione di tecniche di Data Warehousing, Business Intelligence e Data Analytics nel contesto dei processi di recruiting e selezione del personale, con l'obiettivo di supportare il controllo direzionale e operativo attraverso un approccio data-driven. 
+MG HireMatch è un progetto sviluppato per applicare le tecniche di Data Warehousing e Business Intelligence al contesto del recruiting. L'obiettivo è mostrare come i dati possano essere trasformati in informazioni utili per monitorare le performance operative e supportare le decisioni aziendali.
