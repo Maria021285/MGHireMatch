@@ -249,6 +249,17 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 <img width="729" height="795" alt="Image" src="https://github.com/user-attachments/assets/b981644d-4073-45fa-9c47-18039c5d47d8" />
 
+
+## Principali Evidenze Analitiche
+
+- Dall’analisi dei dati emerge una presenza significativa di clienti che hanno effettuato più di una richiesta nel periodo considerato. Questo aspetto evidenzia una certa continuità nel rapporto tra clienti e servizio offerto.
+
+- Le richieste che richiedono tempi di gestione più lunghi incidono sul tempo medio di chiusura delle attività e possono influenzare l'organizzazione del lavoro degli operatori.
+
+- Il confronto tra i diversi livelli di seniority mostra che gli operatori Junior gestiscono mediamente un numero maggiore di richieste rispetto ai profili Senior. Questo risultato può essere collegato alla natura delle attività assegnate: i profili Junior si occupano più spesso di attività operative e standardizzate, mentre i profili Senior sono coinvolti anche in attività di coordinamento e gestione di casi più complessi.
+
+- L’analisi della saturazione mette in evidenza una distribuzione non uniforme del carico di lavoro tra gli operatori. Alcune risorse risultano maggiormente impegnate rispetto ad altre, suggerendo la possibilità di una migliore distribuzione delle attività per favorire un utilizzo più equilibrato delle risorse disponibili.
+
 ---
 
 ## Output Generati
