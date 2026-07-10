@@ -69,6 +69,27 @@ Dashboard Operativa
 Supporto Decisionale
 ```
 ---
+## Metodologia e Scelte Implementative
+
+### Modello a Stella (Star Schema)
+
+È stato adottato uno schema a stella (Star Schema) poiché rappresenta uno dei modelli più utilizzati nei Data Warehouse grazie alla semplicità delle interrogazioni, alle elevate prestazioni nelle analisi multidimensionali e alla facilità di integrazione con strumenti di Business Intelligence come Power BI.
+
+La struttura è composta da una Fact Table centrale (Fact_Richieste) e da tabelle dimensionali dedicate a clienti, fornitori e operatori, consentendo una navigazione intuitiva dei dati e il calcolo efficiente dei KPI.
+
+### Processo ETL
+
+Il processo ETL è stato sviluppato in Python utilizzando la libreria Pandas per le attività di caricamento, pulizia, trasformazione e integrazione dei dati provenienti dai file CSV.
+
+### Data Warehouse
+
+SQLite è stato scelto come motore relazionale per la realizzazione del Data Warehouse grazie alla sua leggerezza, semplicità di configurazione, portabilità e facilità di integrazione con Python.
+
+### Business Intelligence
+
+Power BI è stato utilizzato per la realizzazione delle dashboard direzionali e operative grazie alle sue funzionalità di visualizzazione interattiva, analisi dei KPI e supporto ai processi decisionali.
+
+---
 
 ## Struttura del Data Warehouse
 
