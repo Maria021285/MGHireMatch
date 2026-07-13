@@ -3,10 +3,10 @@ import sqlite3
 
 # 1. Caricamento File CSV creati con funzione Random in Excel 
 
-Operatori = pd.read_csv("Dim_Operatori.csv")
-Clienti = pd.read_csv("Dim_Clienti.csv")
-Fornitori = pd.read_csv("Dim_Fornitori.csv")
-Richieste = pd.read_csv("Fact_Richieste.csv")
+Operatori = pd.read_csv("https://github.com/Maria021285/MGHireMatch/blob/main/Data/Dim_Operatori.csv")
+Clienti = pd.read_csv("https://github.com/Maria021285/MGHireMatch/blob/main/Data/Dim_Clienti.csv")
+Fornitori = pd.read_csv("https://github.com/Maria021285/MGHireMatch/blob/main/Data/Dim_Fornitori.csv")
+Richieste = pd.read_csv("https://github.com/Maria021285/MGHireMatch/blob/main/Data/Fact_Richieste.csv")
 
 # 1.1 Testing funzionamento
 print("File caricati")
@@ -87,7 +87,7 @@ print("\n FACT creata con prolungamento di una risorsa")
 
 # 5. Creazione database SQLite
 
-conn = sqlite3.connect("C:/Users/MariaGiano/OneDrive - COLLEGANDO Srls/Desktop/Tesi_GianoMaria_Traccia PW_21/Database/dw.sqlite")
+conn = sqlite3.connect("https://github.com/Maria021285/MGHireMatch/blob/main/Database/dw.sqlite")
 
 # salvataggio tabelle
 dim_operatore.to_sql("dim_operatore", conn, if_exists="replace", index=False)
